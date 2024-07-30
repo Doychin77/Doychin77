@@ -5,7 +5,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,js,react,php,laravel,postgres,py" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,js,react,postgres,py" />
   </a>
 </p>
 
